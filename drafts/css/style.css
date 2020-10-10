@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+  }
+  
+  .container {
+    background-color: white;
+    box-shadow: 0 0 5px black;
+    padding-bottom: 10px;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.494);
+    border-radius: 20px;
+  }
+  
+  #carouselCaptionid {
+    margin: 0 auto;
+    max-width: 900px !important;
+    max-height: auto !important;
+  }
+  
+  .body-card {
+    border: 3px solid #aa66cc;
+  }
+  
+  hr {
+    width: 100%;
+   
+  }
+  
+  .recent-drafts {
+    text-align: justify;
+  }
+  
+  .recent-drafts h5 {
+    text-align: center;
+  }
+  
+  .body-card {
+    display: inline-flexbox;
+    max-width: 1110px;
+
+  }

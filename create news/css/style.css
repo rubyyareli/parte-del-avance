@@ -1,0 +1,45 @@
+.main-section 
+  {
+    
+    margin: 0 auto;
+    top: 20px;
+  }
+  
+  #btn-login-id 
+  { 
+    margin-bottom: 10px;
+  }
+  
+
+  
+  .model-content-main 
+  {
+    box-shadow: 0 0 10px black;
+  }
+  
+  .register-a 
+  {
+   
+    margin: 500px;
+    transition: 100s;
+  }
+
+  .forma
+  {
+    max-width: 360px;
+    height: 350px;
+  }
+  
+  .register-a:hover 
+  {
+    color: #aa66cc !important;
+    text-decoration: none;
+  }
+  
+  #btn-login-id:hover 
+  {
+    background-color: #aa66cc;
+    border-color: #aa66cc;
+  }
+
+ 

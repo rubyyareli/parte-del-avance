@@ -1,0 +1,50 @@
+body {
+   
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+  }
+  
+  .main-section {
+    margin: 0 auto;
+    top: 60px;
+  }
+  
+  #btn-login-id {
+    margin-bottom: 15px;
+  }
+  
+  img {
+    margin: 50px;
+    width: 200px;
+    height: 50px;
+  }
+  
+  .model-content-main {
+    box-shadow: 0 0 30px black;
+    padding: 20;
+  }
+  
+  .register-a {
+    margin: 5px;
+    transition: 0.2s;
+  }
+  
+  .register-a:hover {
+    color: #aa66cc !important;
+    text-decoration: none;
+  }
+  
+  #btn-login-id:hover {
+    background-color: #aa66cc;
+    border-color: #aa66cc;
+  }
+
+  .col-12
+  {
+     
+    color: rgb(255, 0, 0);
+  }
+
